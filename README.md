@@ -2,6 +2,4 @@
 
 A list of No To Do things.
 
-## Getting Started
-
 
